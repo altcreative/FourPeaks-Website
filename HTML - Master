@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Four Peaks Clinic</title>
+		<link rel="stylesheet" type="text/css" href="styles.css"/>
+		<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+	</head>
+	<body>
+	<div class="wrapper">
+		<header>
+			<div class="background_image">
+				<div class="logo_image">
+					<img src="4peakslogo.png" alt="Four Peaks Clinic"/>
+				</div>
+			<h1>Four Peaks Clinic</h1>
+			</div> <!--end of background_image-->
+			<nav>
+				<ul>
+					<li><a href="#about" class="nav_link" >About</a></li
+					><li><a href="#hours" class="nav_link">Hours</a></li
+					><li><a href="#contact_us" class="nav_link">Contact Us</a></li
+					><li><a href="#new_patients" class="nav_link" >New Patients</a></li
+					><li><a href="#services" class="nav_link">Services</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<div id="content">
+			<section id="social_icons">
+				<ul>
+					<li class="socialicon"><a href="http://www.google.com"><img src="google_plus_icon.png" alt="Google Plus" style="width:45px;height:45px;"></a></li
+					><li class="socialicon"><a href="http://www.facebook.com"><img src="fb_icon.png" alt="Facebook" style="width:49px;height:49px;"></a></li>
+				</ul>
+
+			</section>
+			<section id="about">
+				<h2>About Four Peaks Clinic</h2>
+
+				<p class="section_content">Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.</p>
+
+			</section> <!--end of About-->
+
+			<section id="hours">
+				<h2>Hours</h2>
+				<p class="section_content">Monday - Friday: 8:30 am - 6:00 pm</br>
+					Saturday: 10:00 am - 2:00 pm</p>
+			</section> <!--end of Hours-->
+
+			<section id="contact_us">
+				<h2>Contact Us</h2>
+			</section> <!--end of Contact Us-->
+
+			<section id="new_patients">
+				<h2>New Patient Information</h2>
+			</section> <!--end of New Patients-->
+
+			<section id="services">
+				<h2>Services Available</h2>
+				<p class="section_content">NASA is not about the â€˜Adventure of Human Space Explorationâ€™â€¦We wonâ€™t be doing it just to get out there in space â€“ weâ€™ll be doing it because the things we learn out there will be making life better for a lot of people who wonâ€™t be able to go.</p>
+			</section> <!--end of Services-->
+
+
+		</div> <!--end of content-->
+
+		<div id="footer">
+
+
+
+		</div> <!--end of footer-->
+	</div> <!--end of wrapper-->
+	</body>
+</html> 
